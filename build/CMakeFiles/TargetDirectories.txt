@@ -1,0 +1,3 @@
+C:/Coding/cpp/FATest/build/CMakeFiles/FATest.dir
+C:/Coding/cpp/FATest/build/CMakeFiles/ALL_BUILD.dir
+C:/Coding/cpp/FATest/build/CMakeFiles/ZERO_CHECK.dir
